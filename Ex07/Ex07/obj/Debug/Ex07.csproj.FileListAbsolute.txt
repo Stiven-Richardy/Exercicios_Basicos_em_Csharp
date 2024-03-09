@@ -1,0 +1,8 @@
+c:\users\aluno\documents\visual studio 2015\Projects\Ex07\Ex07\bin\Debug\Ex07.exe.config
+c:\users\aluno\documents\visual studio 2015\Projects\Ex07\Ex07\bin\Debug\Ex07.exe
+c:\users\aluno\documents\visual studio 2015\Projects\Ex07\Ex07\bin\Debug\Ex07.pdb
+c:\users\aluno\documents\visual studio 2015\Projects\Ex07\Ex07\obj\Debug\Ex07.exe
+c:\users\aluno\documents\visual studio 2015\Projects\Ex07\Ex07\obj\Debug\Ex07.pdb
+E:\Berga - 18 Primeiros Ex\Ex07\Ex07\bin\Debug\Ex07.exe.config
+E:\Berga - 18 Primeiros Ex\Ex07\Ex07\obj\Debug\Ex07.exe
+E:\Berga - 18 Primeiros Ex\Ex07\Ex07\obj\Debug\Ex07.pdb

@@ -1,0 +1,10 @@
+C:\Users\aluno\source\repos\Ex02\Ex02\bin\Debug\Ex02.exe.config
+C:\Users\aluno\source\repos\Ex02\Ex02\bin\Debug\Ex02.exe
+C:\Users\aluno\source\repos\Ex02\Ex02\bin\Debug\Ex02.pdb
+C:\Users\aluno\source\repos\Ex02\Ex02\obj\Debug\Ex02.csprojAssemblyReference.cache
+C:\Users\aluno\source\repos\Ex02\Ex02\obj\Debug\Ex02.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\Ex02\Ex02\obj\Debug\Ex02.exe
+C:\Users\aluno\source\repos\Ex02\Ex02\obj\Debug\Ex02.pdb
+E:\Berga - 18 Primeiros Ex\Ex02\Ex02\bin\Debug\Ex02.exe.config
+E:\Berga - 18 Primeiros Ex\Ex02\Ex02\obj\Debug\Ex02.exe
+E:\Berga - 18 Primeiros Ex\Ex02\Ex02\obj\Debug\Ex02.pdb

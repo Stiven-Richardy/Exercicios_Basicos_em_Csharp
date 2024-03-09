@@ -1,0 +1,2 @@
+c:\users\aluno\documents\visual studio 2015\Projects\Ex08\Ex08\bin\Debug\Ex08.exe.config
+E:\Berga - 18 Primeiros Ex\Ex08\Ex08\bin\Debug\Ex08.exe.config

@@ -1,0 +1,12 @@
+c:\users\aluno\documents\visual studio 2015\Projects\Ex18\Ex18\bin\Debug\Ex18.exe.config
+c:\users\aluno\documents\visual studio 2015\Projects\Ex18\Ex18\bin\Debug\Ex18.exe
+c:\users\aluno\documents\visual studio 2015\Projects\Ex18\Ex18\bin\Debug\Ex18.pdb
+c:\users\aluno\documents\visual studio 2015\Projects\Ex18\Ex18\obj\Debug\Ex18.csprojResolveAssemblyReference.cache
+c:\users\aluno\documents\visual studio 2015\Projects\Ex18\Ex18\obj\Debug\Ex18.exe
+c:\users\aluno\documents\visual studio 2015\Projects\Ex18\Ex18\obj\Debug\Ex18.pdb
+E:\Berga - 18 Primeiros Ex\Ex18\Ex18\bin\Debug\Ex18.exe.config
+E:\Berga - 18 Primeiros Ex\Ex18\Ex18\obj\Debug\Ex18.exe
+E:\Berga - 18 Primeiros Ex\Ex18\Ex18\obj\Debug\Ex18.pdb
+E:\Berga - 18 Primeiros Ex\Ex18\Ex18\bin\Debug\Ex18.exe
+E:\Berga - 18 Primeiros Ex\Ex18\Ex18\bin\Debug\Ex18.pdb
+E:\Berga - 18 Primeiros Ex\Ex18\Ex18\obj\Debug\Ex18.csprojResolveAssemblyReference.cache

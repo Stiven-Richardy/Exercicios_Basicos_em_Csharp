@@ -1,0 +1,9 @@
+c:\users\aluno\documents\visual studio 2015\Projects\Ex05\Ex05\bin\Debug\Ex05.exe.config
+c:\users\aluno\documents\visual studio 2015\Projects\Ex05\Ex05\obj\Debug\Ex05.csprojResolveAssemblyReference.cache
+c:\users\aluno\documents\visual studio 2015\Projects\Ex05\Ex05\bin\Debug\Ex05.exe
+c:\users\aluno\documents\visual studio 2015\Projects\Ex05\Ex05\bin\Debug\Ex05.pdb
+c:\users\aluno\documents\visual studio 2015\Projects\Ex05\Ex05\obj\Debug\Ex05.exe
+c:\users\aluno\documents\visual studio 2015\Projects\Ex05\Ex05\obj\Debug\Ex05.pdb
+E:\Berga - 18 Primeiros Ex\Ex05\Ex05\bin\Debug\Ex05.exe.config
+E:\Berga - 18 Primeiros Ex\Ex05\Ex05\obj\Debug\Ex05.exe
+E:\Berga - 18 Primeiros Ex\Ex05\Ex05\obj\Debug\Ex05.pdb

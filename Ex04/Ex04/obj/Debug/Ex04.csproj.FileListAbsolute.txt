@@ -1,0 +1,9 @@
+c:\users\aluno\documents\visual studio 2015\Projects\Ex04\Ex04\bin\Debug\Ex04.exe.config
+c:\users\aluno\documents\visual studio 2015\Projects\Ex04\Ex04\bin\Debug\Ex04.exe
+c:\users\aluno\documents\visual studio 2015\Projects\Ex04\Ex04\bin\Debug\Ex04.pdb
+c:\users\aluno\documents\visual studio 2015\Projects\Ex04\Ex04\obj\Debug\Ex04.csprojResolveAssemblyReference.cache
+c:\users\aluno\documents\visual studio 2015\Projects\Ex04\Ex04\obj\Debug\Ex04.exe
+c:\users\aluno\documents\visual studio 2015\Projects\Ex04\Ex04\obj\Debug\Ex04.pdb
+E:\Berga - 18 Primeiros Ex\Ex04\Ex04\bin\Debug\Ex04.exe.config
+E:\Berga - 18 Primeiros Ex\Ex04\Ex04\obj\Debug\Ex04.exe
+E:\Berga - 18 Primeiros Ex\Ex04\Ex04\obj\Debug\Ex04.pdb
